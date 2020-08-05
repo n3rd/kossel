@@ -52,4 +52,4 @@ Install and add to path:
 * [MeshLab 2020.07](https://www.meshlab.net/#download)
 * [PrusaSlicer 2.2.0](https://www.meshlab.net/#download)
 
-Than run `make all -B`
+Then run `make all -B`
