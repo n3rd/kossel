@@ -41,3 +41,15 @@ If you're interested, please email johann@rocholl.net and let me know
 your favorite PLA color and mailing address. If you want to get your
 printed parts first, explain why you're more qualified than others to
 start giving away high quality printed parts soon.
+
+How to make on Windows
+======================
+
+Install and add to path:
+
+* [make for windows 3.81](http://gnuwin32.sourceforge.net/packages/make.htm)
+* [OpenSCAD-2019.05](https://www.openscad.org/downloads.html)
+* [MeshLab 2020.07](https://www.meshlab.net/#download)
+* [PrusaSlicer 2.2.0](https://www.meshlab.net/#download)
+
+Than run `make all -B`
